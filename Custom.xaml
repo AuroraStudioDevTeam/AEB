@@ -1,6 +1,6 @@
 ﻿<local:MyCard Title=" Atlantis Ender Base Client" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="暂无内容" />
+                   Text="暂无内容，但是使用了黑科技，在线联网更新" />
     </StackPanel>
 </local:MyCard>
